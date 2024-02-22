@@ -1,5 +1,5 @@
 {
-  "name": "github-unfollow-ts",
+  "name": "github-unfollow",
   "version": "1.0.0",
   "description": "A NodeJS typescript to unfollow users on GitHub who do not follow you back.",
   "main": "unfollow.js",
