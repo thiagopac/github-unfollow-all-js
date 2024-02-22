@@ -55,5 +55,5 @@ This project is licensed under the [ISC License](LICENSE.md).
 
 ## All script languages
 
-[GitHub Unfollow in JavaScript](https://github.com/thiagopac/github-unfollow)
-[GitHub Unfollow in TypeScript](https://github.com/thiagopac/github-unfollow-ts)
+- [GitHub Unfollow in JavaScript](https://github.com/thiagopac/github-unfollow)
+- [GitHub Unfollow in TypeScript](https://github.com/thiagopac/github-unfollow-ts)
