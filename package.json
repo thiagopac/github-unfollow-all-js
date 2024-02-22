@@ -1,10 +1,10 @@
 {
-  "name": "github-unfollow",
+  "name": "github-unfollow-ts",
   "version": "1.0.0",
-  "description": "A NodeJS script to unfollow users on GitHub who do not follow you back.",
-  "main": "unfollow.js",
+  "description": "A NodeJS typescript to unfollow users on GitHub who do not follow you back.",
+  "main": "unfollow.ts",
   "scripts": {
-    "start": "node src/unfollow.js"
+    "start": "node src/unfollow.ts"
   },
   "keywords": [
     "Github",
@@ -15,7 +15,6 @@
   "author": "Thiago Pires",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.7",
-    "base-64": "^1.0.0"
+    "axios": "^1.6.7"
   }
 }
