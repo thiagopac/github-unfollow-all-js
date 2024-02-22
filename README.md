@@ -1,4 +1,4 @@
-# GitHub Unfollow
+# GitHub Unfollow in JavaScript
 
 This Node.js script automatically unfollows users on GitHub who do not follow you back, with the option to maintain a whitelist of users that you do not want to unfollow.
 
@@ -37,6 +37,7 @@ To authenticate with the GitHub API, you will need to create a Personal Access T
 To run the script, use the following command in the terminal, replacing `<YOUR-TOKEN>` with the Personal Access Token you generated and `user1 user2 user3` with the GitHub usernames you want to keep following (your whitelist):
 
     node src/unfollow.js <YOUR-TOKEN> user1 user2 user3
+    or simply use the start script (npm start <YOUR-TOKEN> user1 user2 user3)
 
 The script will unfollow users who do not follow you back, except for the ones listed in the whitelist.
 
@@ -51,3 +52,8 @@ Contributions to this project are welcome. You can contribute by:
 ## License
 
 This project is licensed under the [ISC License](LICENSE.md).
+
+## All script languages
+
+[GitHub Unfollow in JavaScript](https://github.com/thiagopac/github-unfollow)
+[GitHub Unfollow in TypeScript](https://github.com/thiagopac/github-unfollow-ts)
