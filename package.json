@@ -1,10 +1,10 @@
 {
   "name": "github-unfollow",
   "version": "1.0.0",
-  "description": "Github unfollow not followers",
-  "main": "index.js",
+  "description": "A NodeJS script to unfollow users on GitHub who do not follow you back.",
+  "main": "unfollow.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/unfollow.js"
   },
   "keywords": [
     "Github",
