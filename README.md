@@ -8,9 +8,9 @@ To use this script, you need to have Node.js installed. If you do not have Node.
 
 Once Node.js is installed, clone this repository to your local machine and install the dependencies with the following commands:
 
-    git clone git@github.com:thiagopac/github-unfollow.git
+    git clone git@github.com:thiagopac/github-unfollow-js.git
 
-    cd github-unfollow
+    cd github-unfollow-js
 
     npm install
 
