@@ -2,9 +2,9 @@
   "name": "github-unfollow-ts",
   "version": "1.0.0",
   "description": "A NodeJS typescript to unfollow users on GitHub who do not follow you back.",
-  "main": "unfollow.ts",
+  "main": "unfollow.js",
   "scripts": {
-    "start": "node src/unfollow.ts"
+    "start": "node src/unfollow.js"
   },
   "keywords": [
     "Github",
