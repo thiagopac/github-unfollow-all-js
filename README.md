@@ -59,3 +59,4 @@ This project is licensed under the [ISC License](LICENSE.md).
 - [GitHub Unfollow in TypeScript](https://github.com/thiagopac/github-unfollow-ts)
 - [GitHub Unfollow in Go](https://github.com/thiagopac/github-unfollow-go)
 - [GitHub Unfollow in Python](https://github.com/thiagopac/github-unfollow-py)
+- [GitHub Unfollow in PHP](https://github.com/thiagopac/github-unfollow-php)
