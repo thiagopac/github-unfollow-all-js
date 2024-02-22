@@ -1,0 +1,21 @@
+{
+  "name": "github-unfollow",
+  "version": "1.0.0",
+  "description": "Github unfollow not followers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Github",
+    "follower",
+    "follow",
+    "unfollow"
+  ],
+  "author": "Thiago Pires",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "base-64": "^1.0.0"
+  }
+}
