@@ -15,10 +15,7 @@ async function unfollow() {
     for (const user of followed) {
       const targetUser = user.login;
       if (!whiteList.includes(targetUser)) {
-        const followsBack = await gitHub.checkFollowBack(targetUser);
-        if (!followsBack) {
-          await gitHub.unfollowUser(targetUser);
-        }
+        await gitHub.unfollowUser(targetUser);
       }
     }
   } while (followed.length > 0);
